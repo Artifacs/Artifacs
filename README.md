@@ -7,19 +7,19 @@ Hello World!, I'm Lester 👋
 ---
 
 🚀 Goals
-- Build helpful apps for students
+- Build helpful Software for students
 - Level up skills in software engineering
 
 ---
 
-## 🔧 Tech Stack
+🔧 Tech Stack
 - 💻 Languages: Python, Java, HTML/CSS, JavaScript (more soon!)
 - 🔨 Tools: Git, GitHub, Notion, ChatGPT
 
 ---
 
 🎯 Fun Facts
-- I love cooking 🍳
+- I love cooking 🍳, Playing Games 🎮, Watching Movies & Anime🥤
 - I analyze life like a probability game 🎲
 - 100% committed to self-growth and building my dream life ✨
 
