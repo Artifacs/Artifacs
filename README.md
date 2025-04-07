@@ -1,16 +1,28 @@
-## Hi there 👋
+Hello World!, I'm Lester 👋
 
-<!--
-**Artifacs/Artifacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year CS Student @ Emilio Aguinaldo College  
+🔥 Aspiring Backend or AI Engineer  
+📚 Currently learning: Python, Java, Prompt Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+- Build helpful apps for students
+- Level up skills in software engineering
+
+---
+
+## 🔧 Tech Stack
+- 💻 Languages: Python, Java, HTML/CSS, JavaScript (more soon!)
+- 🔨 Tools: Git, GitHub, Notion, ChatGPT
+
+---
+
+🎯 Fun Facts
+- I love cooking 🍳
+- I analyze life like a probability game 🎲
+- 100% committed to self-growth and building my dream life ✨
+
+#30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@LeszeAi/30-nites-of-code)  
+  ![@LeszeAi #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LeszeAi)
