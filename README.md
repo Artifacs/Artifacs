@@ -25,4 +25,4 @@ Hello World!, I'm Lester 👋
 
 #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@LeszeAi/30-nites-of-code)  
-  ![@LeszeAi #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LeszeAi)
+  ![@LeszeAi #30NitesOfCode](https://www.codedex.io/@LeszeAi/30-nites-of-code?pet=7Crj5Va7GG1epT0fTiwN)
